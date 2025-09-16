@@ -123,7 +123,7 @@ grep hello newfile
 grep -v hello newfile 
 ## OUTPUT
 
-
+![Alt text](13.png)
 
 cat newfile | grep -i "hello"
 ## OUTPUT
