@@ -48,7 +48,7 @@ cat < file1
 cat < file2
 ## OUTPUT
 
-![Alt text](<Screenshot at 2025-08-31 18-34-43.png>)
+![Alt text](2.png)
 
 # Comparing Files
 cmp file1 file2
@@ -97,8 +97,7 @@ cut -d "|" -f 1 file22
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-
-![Alt text](10.png)
+git![Alt text](10.png)
 
 cat < newfile 
 ```
