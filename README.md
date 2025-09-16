@@ -205,24 +205,27 @@ egrep '((W|w)orld$)' newfile
 egrep '[1-9]' newfile 
 ## OUTPUT
 
-
+![Alt text](25.png)
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
 
+![Alt text](26.png)
 
 egrep 'Linux.*World' newfile 
 ## OUTPUT
 
+![Alt text](27.png)
 
 egrep l{2} newfile
 ## OUTPUT
 
-
+![Alt text](28.png)
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
 
+![Alt text](29.png)
 
 cat > file23
 ```
