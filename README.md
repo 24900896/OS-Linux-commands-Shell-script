@@ -174,7 +174,7 @@ egrep -w 'Hello|hello' newfile
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
 
-
+![Alt text](19.png)
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
