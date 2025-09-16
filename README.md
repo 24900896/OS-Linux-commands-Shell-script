@@ -195,11 +195,12 @@ egrep '(world$)' newfile
 egrep '(World$)' newfile 
 ## OUTPUT
 
+![Alt text](23.png)
 
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
 
-
+![Alt text](24.png)
 
 egrep '[1-9]' newfile 
 ## OUTPUT
