@@ -128,7 +128,7 @@ grep -v hello newfile
 cat newfile | grep -i "hello"
 ## OUTPUT
 
-
+![Alt text](14.png)
 
 
 cat newfile | grep -i -c "hello"
