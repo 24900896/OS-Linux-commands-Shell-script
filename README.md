@@ -134,7 +134,7 @@ cat newfile | grep -i "hello"
 cat newfile | grep -i -c "hello"
 ## OUTPUT
 
-
+![Alt text](15.png)
 
 
 grep -R ubuntu /etc
