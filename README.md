@@ -53,11 +53,14 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+
+![Alt text](3.png)
+
 comm file1 file2
  ## OUTPUT
 
- 
+
+
 diff file1 file2
 ## OUTPUT
 
@@ -86,10 +89,8 @@ cut -c1-3 file11
 
 
 
-
 cut -d "|" -f 1 file22
 ## OUTPUT
-
 
 
 cut -d "|" -f 2 file22
