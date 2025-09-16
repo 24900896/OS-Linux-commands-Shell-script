@@ -145,6 +145,7 @@ grep -R ubuntu /etc
 grep -w -n world newfile   
 ## OUTPUT
 
+![Alt text](17.png)
 
 cat < newfile 
 ```
@@ -168,7 +169,7 @@ Linux is best in this World
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
 
-
+![Alt text](18.png)
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
