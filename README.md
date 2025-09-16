@@ -117,7 +117,7 @@ grep Hello newfile
 grep hello newfile 
 ## OUTPUT
 
-
+![Alt text](12.png)
 
 
 grep -v hello newfile 
