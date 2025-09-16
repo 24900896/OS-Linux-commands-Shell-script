@@ -244,17 +244,17 @@ cat > file23
 sed -n -e '3p' file23
 ## OUTPUT
 
-
+![Alt text](30.png)
 
 sed -n -e '$p' file23
 ## OUTPUT
 
-
+![Alt text](31.png)
 
 sed  -e 's/Ram/Sita/' file23
 ## OUTPUT
 
-
+![Alt text](32.png)
 
 sed  -e '2s/Ram/Sita/' file23
 ## OUTPUT
