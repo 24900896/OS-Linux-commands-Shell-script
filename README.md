@@ -140,7 +140,7 @@ cat newfile | grep -i -c "hello"
 grep -R ubuntu /etc
 ## OUTPUT
 
-
+![Alt text](16.png)
 
 grep -w -n world newfile   
 ## OUTPUT
