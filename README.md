@@ -179,18 +179,18 @@ egrep -w '(H|h)ello' newfile
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
 
-
+![Alt text](20.png)
 
 
 egrep '(^hello)' newfile 
 ## OUTPUT
 
-
+![Alt text](21.png)
 
 egrep '(world$)' newfile 
 ## OUTPUT
 
-
+![Alt text](22.png)
 
 egrep '(World$)' newfile 
 ## OUTPUT
